@@ -52,6 +52,9 @@ Affordance_Annotator/
 # EPIC-KITCHENS download scripts (clone separately)
 epic-kitchens-download-scripts/
 
+# Other unrelated projects in this directory
+k1/
+
 # Tar/zip archives
 *.tar
 *.tar.gz
