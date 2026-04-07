@@ -62,20 +62,37 @@ def load_models(device: str = "cuda"):
 def detect_object(rex_model, image: Image.Image, object_name: str) -> dict:
     """Run Rex-Omni detection + pointing for one object on one image.
 
+    API contract (from Affordance_Annotator/label-sam2.py reference):
+        result = rex_model.inference(images=image, task="detection", categories=[cat])[0]
+        result["extracted_predictions"][cat] = [{"coords": [...]}, ...]
+
     Returns:
         {bboxes: [[x1,y1,x2,y2], ...], points: [[x,y], ...]} or empty dict on failure
     """
+    cat = object_name
+    bboxes, points = [], []
+
     try:
-        det = rex_model.inference(images=[image], task="detection",
-                                   categories=[object_name])
-        pt = rex_model.inference(images=[image], task="pointing",
-                                  categories=[object_name])
-        bboxes = det[0].get(object_name, {}).get("bboxes", [])
-        points = pt[0].get(object_name, {}).get("points", [])
-        return {"bboxes": bboxes, "points": points}
+        det_result = rex_model.inference(images=image, task="detection",
+                                          categories=[cat])
+        preds = det_result[0].get("extracted_predictions", {})
+        if cat in preds:
+            for pred in preds[cat]:
+                bboxes.append(pred["coords"])
     except Exception as e:
-        print(f"  Rex-Omni error: {e}")
-        return {"bboxes": [], "points": []}
+        print(f"  Rex-Omni detection error for '{cat}': {e}")
+
+    try:
+        pt_result = rex_model.inference(images=image, task="pointing",
+                                         categories=[cat])
+        preds = pt_result[0].get("extracted_predictions", {})
+        if cat in preds:
+            for pred in preds[cat]:
+                points.append(pred["coords"])
+    except Exception as e:
+        print(f"  Rex-Omni pointing error for '{cat}': {e}")
+
+    return {"bboxes": bboxes, "points": points}
 
 
 def segment_with_sam2(sam2_model, image: Image.Image, bboxes: list,
