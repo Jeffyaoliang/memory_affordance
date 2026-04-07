@@ -1,0 +1,63 @@
+{
+  "total_episodes": 11,
+  "total_qa_pairs": 76,
+  "model": "qwen3.5-397b-a17b",
+  "max_images": 30,
+  "episodes": [
+    {
+      "name": "001e3e4e-2743-47fc-8564-d5efd11f9e90",
+      "num_images": 22,
+      "num_qa_pairs": 5
+    },
+    {
+      "name": "00277df3-9107-4592-ba85-b8d054149551",
+      "num_images": 17,
+      "num_qa_pairs": 7
+    },
+    {
+      "name": "003b145d-42d3-470d-b987-8a489c42f2f8",
+      "num_images": 20,
+      "num_qa_pairs": 6
+    },
+    {
+      "name": "00c450a5-49d0-4647-a45c-bf214cea169d",
+      "num_images": 30,
+      "num_qa_pairs": 7
+    },
+    {
+      "name": "00dec6a0-dd5f-4024-91cf-a4b7c92d1242",
+      "num_images": 30,
+      "num_qa_pairs": 5
+    },
+    {
+      "name": "0198379f-f092-4e7d-9335-b5121ebd64ba",
+      "num_images": 30,
+      "num_qa_pairs": 7
+    },
+    {
+      "name": "01ce4fd6-197a-4792-8778-775b03780369",
+      "num_images": 25,
+      "num_qa_pairs": 8
+    },
+    {
+      "name": "01f812c8-a0ed-42aa-8c3e-71eed10c9323",
+      "num_images": 21,
+      "num_qa_pairs": 7
+    },
+    {
+      "name": "024713b7-b198-4502-a114-02ca0485353b",
+      "num_images": 30,
+      "num_qa_pairs": 9
+    },
+    {
+      "name": "0a4dded4-0ee3-4c9d-b13e-f9f2fa85dfa3",
+      "num_images": 30,
+      "num_qa_pairs": 8
+    },
+    {
+      "name": "1d8b1b3c-b8f3-4a3d-9137-65b4b15dd343",
+      "num_images": 30,
+      "num_qa_pairs": 7
+    }
+  ]
+}

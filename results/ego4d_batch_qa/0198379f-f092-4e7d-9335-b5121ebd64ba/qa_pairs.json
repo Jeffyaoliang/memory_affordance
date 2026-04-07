@@ -1,0 +1,226 @@
+{
+  "episode_name": "0198379f-f092-4e7d-9335-b5121ebd64ba",
+  "episode_dir": "/Users/bianyaoliang/Desktop/KRA_src/data/keyframes/ego4d_batch/0198379f-f092-4e7d-9335-b5121ebd64ba",
+  "num_images": 30,
+  "num_qa_pairs": 7,
+  "images": [
+    {
+      "image_id": 0,
+      "filename": "frame_00000000.jpg",
+      "frame_idx": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "image_id": 1,
+      "filename": "frame_00000311.jpg",
+      "frame_idx": 311,
+      "timestamp_sec": 10.367
+    },
+    {
+      "image_id": 2,
+      "filename": "frame_00000933.jpg",
+      "frame_idx": 933,
+      "timestamp_sec": 31.1
+    },
+    {
+      "image_id": 3,
+      "filename": "frame_00001555.jpg",
+      "frame_idx": 1555,
+      "timestamp_sec": 51.833
+    },
+    {
+      "image_id": 4,
+      "filename": "frame_00001866.jpg",
+      "frame_idx": 1866,
+      "timestamp_sec": 62.2
+    },
+    {
+      "image_id": 5,
+      "filename": "frame_00002488.jpg",
+      "frame_idx": 2488,
+      "timestamp_sec": 82.933
+    },
+    {
+      "image_id": 6,
+      "filename": "frame_00003110.jpg",
+      "frame_idx": 3110,
+      "timestamp_sec": 103.667
+    },
+    {
+      "image_id": 7,
+      "filename": "frame_00003421.jpg",
+      "frame_idx": 3421,
+      "timestamp_sec": 114.033
+    },
+    {
+      "image_id": 8,
+      "filename": "frame_00004043.jpg",
+      "frame_idx": 4043,
+      "timestamp_sec": 134.767
+    },
+    {
+      "image_id": 9,
+      "filename": "frame_00004665.jpg",
+      "frame_idx": 4665,
+      "timestamp_sec": 155.5
+    },
+    {
+      "image_id": 10,
+      "filename": "frame_00004976.jpg",
+      "frame_idx": 4976,
+      "timestamp_sec": 165.867
+    },
+    {
+      "image_id": 11,
+      "filename": "frame_00005598.jpg",
+      "frame_idx": 5598,
+      "timestamp_sec": 186.6
+    },
+    {
+      "image_id": 12,
+      "filename": "frame_00006220.jpg",
+      "frame_idx": 6220,
+      "timestamp_sec": 207.333
+    },
+    {
+      "image_id": 13,
+      "filename": "frame_00006531.jpg",
+      "frame_idx": 6531,
+      "timestamp_sec": 217.7
+    },
+    {
+      "image_id": 14,
+      "filename": "frame_00007153.jpg",
+      "frame_idx": 7153,
+      "timestamp_sec": 238.433
+    },
+    {
+      "image_id": 15,
+      "filename": "frame_00007775.jpg",
+      "frame_idx": 7775,
+      "timestamp_sec": 259.167
+    },
+    {
+      "image_id": 16,
+      "filename": "frame_00008086.jpg",
+      "frame_idx": 8086,
+      "timestamp_sec": 269.533
+    },
+    {
+      "image_id": 17,
+      "filename": "frame_00008708.jpg",
+      "frame_idx": 8708,
+      "timestamp_sec": 290.267
+    },
+    {
+      "image_id": 18,
+      "filename": "frame_00009330.jpg",
+      "frame_idx": 9330,
+      "timestamp_sec": 311.0
+    },
+    {
+      "image_id": 19,
+      "filename": "frame_00009641.jpg",
+      "frame_idx": 9641,
+      "timestamp_sec": 321.367
+    },
+    {
+      "image_id": 20,
+      "filename": "frame_00010263.jpg",
+      "frame_idx": 10263,
+      "timestamp_sec": 342.1
+    },
+    {
+      "image_id": 21,
+      "filename": "frame_00010885.jpg",
+      "frame_idx": 10885,
+      "timestamp_sec": 362.833
+    },
+    {
+      "image_id": 22,
+      "filename": "frame_00011196.jpg",
+      "frame_idx": 11196,
+      "timestamp_sec": 373.2
+    },
+    {
+      "image_id": 23,
+      "filename": "frame_00011818.jpg",
+      "frame_idx": 11818,
+      "timestamp_sec": 393.933
+    },
+    {
+      "image_id": 24,
+      "filename": "frame_00012440.jpg",
+      "frame_idx": 12440,
+      "timestamp_sec": 414.667
+    },
+    {
+      "image_id": 25,
+      "filename": "frame_00012751.jpg",
+      "frame_idx": 12751,
+      "timestamp_sec": 425.033
+    },
+    {
+      "image_id": 26,
+      "filename": "frame_00013373.jpg",
+      "frame_idx": 13373,
+      "timestamp_sec": 445.767
+    },
+    {
+      "image_id": 27,
+      "filename": "frame_00013995.jpg",
+      "frame_idx": 13995,
+      "timestamp_sec": 466.5
+    },
+    {
+      "image_id": 28,
+      "filename": "frame_00014306.jpg",
+      "frame_idx": 14306,
+      "timestamp_sec": 476.867
+    },
+    {
+      "image_id": 29,
+      "filename": "frame_00014928.jpg",
+      "frame_idx": 14928,
+      "timestamp_sec": 497.6
+    }
+  ],
+  "qa_pairs": [
+    {
+      "image_id": 0,
+      "object": "yellow paint can on the workbench",
+      "task_instruction": "I need to find the container holding the wood stain to finish these slats. Where should I look?"
+    },
+    {
+      "image_id": 0,
+      "object": "grey tool cabinet with black handles",
+      "task_instruction": "I need to store my small tools securely. Which piece of furniture has drawers for this?"
+    },
+    {
+      "image_id": 0,
+      "object": "stack of reddish-brown wooden slats",
+      "task_instruction": "I have a project requiring long thin wood pieces. What can I use?"
+    },
+    {
+      "image_id": 1,
+      "object": "orange and black cordless drill",
+      "task_instruction": "How can I make holes in these wood pieces in this environment?"
+    },
+    {
+      "image_id": 1,
+      "object": "small red bottle on the workbench",
+      "task_instruction": "I need a small amount of liquid solvent or cleaner. Which tool/object would allow me to get that?"
+    },
+    {
+      "image_id": 2,
+      "object": "white vacuum cleaner with blue rim",
+      "task_instruction": "The floor is covered in dust and debris. Where should I look to find something to clean it up?"
+    },
+    {
+      "image_id": 5,
+      "object": "white plastic sheet covering the work surface",
+      "task_instruction": "I need to protect the table from stain spills. Which object would allow me to do that?"
+    }
+  ],
+  "raw_response": "{\"image_id\": 0, \"object\": \"yellow paint can on the workbench\", \"task_instruction\": \"I need to find the container holding the wood stain to finish these slats. Where should I look?\"}\n{\"image_id\": 0, \"object\": \"grey tool cabinet with black handles\", \"task_instruction\": \"I need to store my small tools securely. Which piece of furniture has drawers for this?\"}\n{\"image_id\": 0, \"object\": \"stack of reddish-brown wooden slats\", \"task_instruction\": \"I have a project requiring long thin wood pieces. What can I use?\"}\n{\"image_id\": 1, \"object\": \"orange and black cordless drill\", \"task_instruction\": \"How can I make holes in these wood pieces in this environment?\"}\n{\"image_id\": 1, \"object\": \"small red bottle on the workbench\", \"task_instruction\": \"I need a small amount of liquid solvent or cleaner. Which tool/object would allow me to get that?\"}\n{\"image_id\": 2, \"object\": \"white vacuum cleaner with blue rim\", \"task_instruction\": \"The floor is covered in dust and debris. Where should I look to find something to clean it up?\"}\n{\"image_id\": 5, \"object\": \"white plastic sheet covering the work surface\", \"task_instruction\": \"I need to protect the table from stain spills. Which object would allow me to do that?\"}"
+}

@@ -1,0 +1,157 @@
+{
+  "video_path": "/Users/bianyaoliang/Desktop/KRA_src/data/ego4d/batch_videos/01f812c8-a0ed-42aa-8c3e-71eed10c9323.mp4",
+  "video_name": "01f812c8-a0ed-42aa-8c3e-71eed10c9323",
+  "fps": 30.0,
+  "total_frames": 3630,
+  "duration_sec": 121.0,
+  "num_keyframes": 21,
+  "keyframes": [
+    {
+      "frame_idx": 0,
+      "timestamp_sec": 0.0,
+      "filename": "frame_00000000.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 180,
+      "timestamp_sec": 6.0,
+      "filename": "frame_00000180.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 360,
+      "timestamp_sec": 12.0,
+      "filename": "frame_00000360.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 540,
+      "timestamp_sec": 18.0,
+      "filename": "frame_00000540.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 720,
+      "timestamp_sec": 24.0,
+      "filename": "frame_00000720.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 900,
+      "timestamp_sec": 30.0,
+      "filename": "frame_00000900.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 1080,
+      "timestamp_sec": 36.0,
+      "filename": "frame_00001080.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 1260,
+      "timestamp_sec": 42.0,
+      "filename": "frame_00001260.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 1440,
+      "timestamp_sec": 48.0,
+      "filename": "frame_00001440.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 1620,
+      "timestamp_sec": 54.0,
+      "filename": "frame_00001620.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 1800,
+      "timestamp_sec": 60.0,
+      "filename": "frame_00001800.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 1980,
+      "timestamp_sec": 66.0,
+      "filename": "frame_00001980.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 2160,
+      "timestamp_sec": 72.0,
+      "filename": "frame_00002160.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 2340,
+      "timestamp_sec": 78.0,
+      "filename": "frame_00002340.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 2520,
+      "timestamp_sec": 84.0,
+      "filename": "frame_00002520.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 2700,
+      "timestamp_sec": 90.0,
+      "filename": "frame_00002700.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 2880,
+      "timestamp_sec": 96.0,
+      "filename": "frame_00002880.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 3060,
+      "timestamp_sec": 102.0,
+      "filename": "frame_00003060.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 3240,
+      "timestamp_sec": 108.0,
+      "filename": "frame_00003240.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 3420,
+      "timestamp_sec": 114.0,
+      "filename": "frame_00003420.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 3600,
+      "timestamp_sec": 120.0,
+      "filename": "frame_00003600.jpg",
+      "width": 1920,
+      "height": 1440
+    }
+  ]
+}

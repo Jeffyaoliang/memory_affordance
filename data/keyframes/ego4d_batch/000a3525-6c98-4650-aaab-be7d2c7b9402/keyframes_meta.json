@@ -1,0 +1,38 @@
+{
+  "video_path": "/Users/bianyaoliang/Desktop/KRA_src/data/ego4d/batch_videos/000a3525-6c98-4650-aaab-be7d2c7b9402.mp4",
+  "video_name": "000a3525-6c98-4650-aaab-be7d2c7b9402",
+  "fps": 30.0,
+  "total_frames": 643,
+  "duration_sec": 21.433,
+  "num_keyframes": 4,
+  "keyframes": [
+    {
+      "frame_idx": 0,
+      "timestamp_sec": 0.0,
+      "filename": "frame_00000000.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 180,
+      "timestamp_sec": 6.0,
+      "filename": "frame_00000180.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 360,
+      "timestamp_sec": 12.0,
+      "filename": "frame_00000360.jpg",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "frame_idx": 540,
+      "timestamp_sec": 18.0,
+      "filename": "frame_00000540.jpg",
+      "width": 1920,
+      "height": 1440
+    }
+  ]
+}

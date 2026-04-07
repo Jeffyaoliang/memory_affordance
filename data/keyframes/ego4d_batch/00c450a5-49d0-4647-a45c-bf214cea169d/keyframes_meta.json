@@ -1,0 +1,360 @@
+{
+  "video_path": "/Users/bianyaoliang/Desktop/KRA_src/data/ego4d/batch_videos/00c450a5-49d0-4647-a45c-bf214cea169d.mp4",
+  "video_name": "00c450a5-49d0-4647-a45c-bf214cea169d",
+  "fps": 30.0,
+  "total_frames": 54000,
+  "duration_sec": 1800.0,
+  "num_keyframes": 50,
+  "keyframes": [
+    {
+      "frame_idx": 0,
+      "timestamp_sec": 0.0,
+      "filename": "frame_00000000.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 1080,
+      "timestamp_sec": 36.0,
+      "filename": "frame_00001080.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 2160,
+      "timestamp_sec": 72.0,
+      "filename": "frame_00002160.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 3240,
+      "timestamp_sec": 108.0,
+      "filename": "frame_00003240.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 4320,
+      "timestamp_sec": 144.0,
+      "filename": "frame_00004320.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 5400,
+      "timestamp_sec": 180.0,
+      "filename": "frame_00005400.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 6480,
+      "timestamp_sec": 216.0,
+      "filename": "frame_00006480.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 7560,
+      "timestamp_sec": 252.0,
+      "filename": "frame_00007560.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 8640,
+      "timestamp_sec": 288.0,
+      "filename": "frame_00008640.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 9720,
+      "timestamp_sec": 324.0,
+      "filename": "frame_00009720.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 10800,
+      "timestamp_sec": 360.0,
+      "filename": "frame_00010800.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 11880,
+      "timestamp_sec": 396.0,
+      "filename": "frame_00011880.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 12960,
+      "timestamp_sec": 432.0,
+      "filename": "frame_00012960.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 14040,
+      "timestamp_sec": 468.0,
+      "filename": "frame_00014040.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 15120,
+      "timestamp_sec": 504.0,
+      "filename": "frame_00015120.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 16200,
+      "timestamp_sec": 540.0,
+      "filename": "frame_00016200.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 17280,
+      "timestamp_sec": 576.0,
+      "filename": "frame_00017280.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 18360,
+      "timestamp_sec": 612.0,
+      "filename": "frame_00018360.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 19440,
+      "timestamp_sec": 648.0,
+      "filename": "frame_00019440.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 20520,
+      "timestamp_sec": 684.0,
+      "filename": "frame_00020520.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 21600,
+      "timestamp_sec": 720.0,
+      "filename": "frame_00021600.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 22680,
+      "timestamp_sec": 756.0,
+      "filename": "frame_00022680.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 23760,
+      "timestamp_sec": 792.0,
+      "filename": "frame_00023760.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 24840,
+      "timestamp_sec": 828.0,
+      "filename": "frame_00024840.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 25920,
+      "timestamp_sec": 864.0,
+      "filename": "frame_00025920.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 27000,
+      "timestamp_sec": 900.0,
+      "filename": "frame_00027000.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 28080,
+      "timestamp_sec": 936.0,
+      "filename": "frame_00028080.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 29160,
+      "timestamp_sec": 972.0,
+      "filename": "frame_00029160.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 30240,
+      "timestamp_sec": 1008.0,
+      "filename": "frame_00030240.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 31320,
+      "timestamp_sec": 1044.0,
+      "filename": "frame_00031320.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 32400,
+      "timestamp_sec": 1080.0,
+      "filename": "frame_00032400.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 33480,
+      "timestamp_sec": 1116.0,
+      "filename": "frame_00033480.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 34560,
+      "timestamp_sec": 1152.0,
+      "filename": "frame_00034560.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 35640,
+      "timestamp_sec": 1188.0,
+      "filename": "frame_00035640.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 36720,
+      "timestamp_sec": 1224.0,
+      "filename": "frame_00036720.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 37800,
+      "timestamp_sec": 1260.0,
+      "filename": "frame_00037800.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 38880,
+      "timestamp_sec": 1296.0,
+      "filename": "frame_00038880.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 39960,
+      "timestamp_sec": 1332.0,
+      "filename": "frame_00039960.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 41040,
+      "timestamp_sec": 1368.0,
+      "filename": "frame_00041040.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 42120,
+      "timestamp_sec": 1404.0,
+      "filename": "frame_00042120.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 43200,
+      "timestamp_sec": 1440.0,
+      "filename": "frame_00043200.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 44280,
+      "timestamp_sec": 1476.0,
+      "filename": "frame_00044280.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 45360,
+      "timestamp_sec": 1512.0,
+      "filename": "frame_00045360.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 46440,
+      "timestamp_sec": 1548.0,
+      "filename": "frame_00046440.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 47520,
+      "timestamp_sec": 1584.0,
+      "filename": "frame_00047520.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 48600,
+      "timestamp_sec": 1620.0,
+      "filename": "frame_00048600.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 49680,
+      "timestamp_sec": 1656.0,
+      "filename": "frame_00049680.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 50760,
+      "timestamp_sec": 1692.0,
+      "filename": "frame_00050760.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 51840,
+      "timestamp_sec": 1728.0,
+      "filename": "frame_00051840.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "frame_idx": 52920,
+      "timestamp_sec": 1764.0,
+      "filename": "frame_00052920.jpg",
+      "width": 1920,
+      "height": 1080
+    }
+  ]
+}

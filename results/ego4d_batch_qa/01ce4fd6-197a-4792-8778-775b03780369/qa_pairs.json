@@ -1,0 +1,201 @@
+{
+  "episode_name": "01ce4fd6-197a-4792-8778-775b03780369",
+  "episode_dir": "/Users/bianyaoliang/Desktop/KRA_src/data/keyframes/ego4d_batch/01ce4fd6-197a-4792-8778-775b03780369",
+  "num_images": 25,
+  "num_qa_pairs": 8,
+  "images": [
+    {
+      "image_id": 0,
+      "filename": "frame_00000000.jpg",
+      "frame_idx": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "image_id": 1,
+      "filename": "frame_00000180.jpg",
+      "frame_idx": 180,
+      "timestamp_sec": 6.0
+    },
+    {
+      "image_id": 2,
+      "filename": "frame_00000360.jpg",
+      "frame_idx": 360,
+      "timestamp_sec": 12.0
+    },
+    {
+      "image_id": 3,
+      "filename": "frame_00000540.jpg",
+      "frame_idx": 540,
+      "timestamp_sec": 18.0
+    },
+    {
+      "image_id": 4,
+      "filename": "frame_00000720.jpg",
+      "frame_idx": 720,
+      "timestamp_sec": 24.0
+    },
+    {
+      "image_id": 5,
+      "filename": "frame_00000900.jpg",
+      "frame_idx": 900,
+      "timestamp_sec": 30.0
+    },
+    {
+      "image_id": 6,
+      "filename": "frame_00001080.jpg",
+      "frame_idx": 1080,
+      "timestamp_sec": 36.0
+    },
+    {
+      "image_id": 7,
+      "filename": "frame_00001260.jpg",
+      "frame_idx": 1260,
+      "timestamp_sec": 42.0
+    },
+    {
+      "image_id": 8,
+      "filename": "frame_00001440.jpg",
+      "frame_idx": 1440,
+      "timestamp_sec": 48.0
+    },
+    {
+      "image_id": 9,
+      "filename": "frame_00001620.jpg",
+      "frame_idx": 1620,
+      "timestamp_sec": 54.0
+    },
+    {
+      "image_id": 10,
+      "filename": "frame_00001800.jpg",
+      "frame_idx": 1800,
+      "timestamp_sec": 60.0
+    },
+    {
+      "image_id": 11,
+      "filename": "frame_00001980.jpg",
+      "frame_idx": 1980,
+      "timestamp_sec": 66.0
+    },
+    {
+      "image_id": 12,
+      "filename": "frame_00002160.jpg",
+      "frame_idx": 2160,
+      "timestamp_sec": 72.0
+    },
+    {
+      "image_id": 13,
+      "filename": "frame_00002340.jpg",
+      "frame_idx": 2340,
+      "timestamp_sec": 78.0
+    },
+    {
+      "image_id": 14,
+      "filename": "frame_00002520.jpg",
+      "frame_idx": 2520,
+      "timestamp_sec": 84.0
+    },
+    {
+      "image_id": 15,
+      "filename": "frame_00002700.jpg",
+      "frame_idx": 2700,
+      "timestamp_sec": 90.0
+    },
+    {
+      "image_id": 16,
+      "filename": "frame_00002880.jpg",
+      "frame_idx": 2880,
+      "timestamp_sec": 96.0
+    },
+    {
+      "image_id": 17,
+      "filename": "frame_00003060.jpg",
+      "frame_idx": 3060,
+      "timestamp_sec": 102.0
+    },
+    {
+      "image_id": 18,
+      "filename": "frame_00003240.jpg",
+      "frame_idx": 3240,
+      "timestamp_sec": 108.0
+    },
+    {
+      "image_id": 19,
+      "filename": "frame_00003420.jpg",
+      "frame_idx": 3420,
+      "timestamp_sec": 114.0
+    },
+    {
+      "image_id": 20,
+      "filename": "frame_00003600.jpg",
+      "frame_idx": 3600,
+      "timestamp_sec": 120.0
+    },
+    {
+      "image_id": 21,
+      "filename": "frame_00003780.jpg",
+      "frame_idx": 3780,
+      "timestamp_sec": 126.0
+    },
+    {
+      "image_id": 22,
+      "filename": "frame_00003960.jpg",
+      "frame_idx": 3960,
+      "timestamp_sec": 132.0
+    },
+    {
+      "image_id": 23,
+      "filename": "frame_00004140.jpg",
+      "frame_idx": 4140,
+      "timestamp_sec": 138.0
+    },
+    {
+      "image_id": 24,
+      "filename": "frame_00004320.jpg",
+      "frame_idx": 4320,
+      "timestamp_sec": 144.0
+    }
+  ],
+  "qa_pairs": [
+    {
+      "image_id": 0,
+      "object": "broom and dustpan",
+      "task_instruction": "The floor needs sweeping. Where can I find the broom and dustpan leaning against the cupboard?"
+    },
+    {
+      "image_id": 1,
+      "object": "black dumbbell",
+      "task_instruction": "I want to do some weight training. Where is the black adjustable dumbbell sitting on the floor near the brown chair?"
+    },
+    {
+      "image_id": 4,
+      "object": "square timer",
+      "task_instruction": "I need to time my work session. Where is the square timer sitting on the white desk?"
+    },
+    {
+      "image_id": 6,
+      "object": "beige sweater",
+      "task_instruction": "I need to fold a beige top. Where is the person holding up the beige sweater to inspect it?"
+    },
+    {
+      "image_id": 17,
+      "object": "red checkered cloth",
+      "task_instruction": "I need a red and white checkered cloth. Which item is being held up by two hands?"
+    },
+    {
+      "image_id": 18,
+      "object": "yellow strap",
+      "task_instruction": "I need a yellow strap. Where is someone holding the yellow strap attached to the drying rack?"
+    },
+    {
+      "image_id": 20,
+      "object": "folded drying rack",
+      "task_instruction": "I need to store the drying rack away. Where is it fully collapsed and leaning against the wall?"
+    },
+    {
+      "image_id": 24,
+      "object": "hanging wardrobe organizer",
+      "task_instruction": "I need to put folded clothes away in the closet. Where is the fabric hanging organizer with shelves?"
+    }
+  ],
+  "raw_response": "{\"image_id\": 0, \"object\": \"broom and dustpan\", \"task_instruction\": \"The floor needs sweeping. Where can I find the broom and dustpan leaning against the cupboard?\"}\n{\"image_id\": 1, \"object\": \"black dumbbell\", \"task_instruction\": \"I want to do some weight training. Where is the black adjustable dumbbell sitting on the floor near the brown chair?\"}\n{\"image_id\": 4, \"object\": \"square timer\", \"task_instruction\": \"I need to time my work session. Where is the square timer sitting on the white desk?\"}\n{\"image_id\": 6, \"object\": \"beige sweater\", \"task_instruction\": \"I need to fold a beige top. Where is the person holding up the beige sweater to inspect it?\"}\n{\"image_id\": 17, \"object\": \"red checkered cloth\", \"task_instruction\": \"I need a red and white checkered cloth. Which item is being held up by two hands?\"}\n{\"image_id\": 18, \"object\": \"yellow strap\", \"task_instruction\": \"I need a yellow strap. Where is someone holding the yellow strap attached to the drying rack?\"}\n{\"image_id\": 20, \"object\": \"folded drying rack\", \"task_instruction\": \"I need to store the drying rack away. Where is it fully collapsed and leaning against the wall?\"}\n{\"image_id\": 24, \"object\": \"hanging wardrobe organizer\", \"task_instruction\": \"I need to put folded clothes away in the closet. Where is the fabric hanging organizer with shelves?\"}"
+}

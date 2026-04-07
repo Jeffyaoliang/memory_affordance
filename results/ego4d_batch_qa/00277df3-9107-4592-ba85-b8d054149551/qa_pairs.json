@@ -1,0 +1,148 @@
+{
+  "episode_name": "00277df3-9107-4592-ba85-b8d054149551",
+  "episode_dir": "/Users/bianyaoliang/Desktop/KRA_src/data/keyframes/ego4d_batch/00277df3-9107-4592-ba85-b8d054149551",
+  "num_images": 17,
+  "num_qa_pairs": 7,
+  "images": [
+    {
+      "image_id": 0,
+      "filename": "frame_00000000.jpg",
+      "frame_idx": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "image_id": 1,
+      "filename": "frame_00000180.jpg",
+      "frame_idx": 180,
+      "timestamp_sec": 6.0
+    },
+    {
+      "image_id": 2,
+      "filename": "frame_00000360.jpg",
+      "frame_idx": 360,
+      "timestamp_sec": 12.0
+    },
+    {
+      "image_id": 3,
+      "filename": "frame_00000540.jpg",
+      "frame_idx": 540,
+      "timestamp_sec": 18.0
+    },
+    {
+      "image_id": 4,
+      "filename": "frame_00000720.jpg",
+      "frame_idx": 720,
+      "timestamp_sec": 24.0
+    },
+    {
+      "image_id": 5,
+      "filename": "frame_00000900.jpg",
+      "frame_idx": 900,
+      "timestamp_sec": 30.0
+    },
+    {
+      "image_id": 6,
+      "filename": "frame_00001080.jpg",
+      "frame_idx": 1080,
+      "timestamp_sec": 36.0
+    },
+    {
+      "image_id": 7,
+      "filename": "frame_00001260.jpg",
+      "frame_idx": 1260,
+      "timestamp_sec": 42.0
+    },
+    {
+      "image_id": 8,
+      "filename": "frame_00001440.jpg",
+      "frame_idx": 1440,
+      "timestamp_sec": 48.0
+    },
+    {
+      "image_id": 9,
+      "filename": "frame_00001620.jpg",
+      "frame_idx": 1620,
+      "timestamp_sec": 54.0
+    },
+    {
+      "image_id": 10,
+      "filename": "frame_00001800.jpg",
+      "frame_idx": 1800,
+      "timestamp_sec": 60.0
+    },
+    {
+      "image_id": 11,
+      "filename": "frame_00001980.jpg",
+      "frame_idx": 1980,
+      "timestamp_sec": 66.0
+    },
+    {
+      "image_id": 12,
+      "filename": "frame_00002160.jpg",
+      "frame_idx": 2160,
+      "timestamp_sec": 72.0
+    },
+    {
+      "image_id": 13,
+      "filename": "frame_00002340.jpg",
+      "frame_idx": 2340,
+      "timestamp_sec": 78.0
+    },
+    {
+      "image_id": 14,
+      "filename": "frame_00002520.jpg",
+      "frame_idx": 2520,
+      "timestamp_sec": 84.0
+    },
+    {
+      "image_id": 15,
+      "filename": "frame_00002700.jpg",
+      "frame_idx": 2700,
+      "timestamp_sec": 90.0
+    },
+    {
+      "image_id": 16,
+      "filename": "frame_00002880.jpg",
+      "frame_idx": 2880,
+      "timestamp_sec": 96.0
+    }
+  ],
+  "qa_pairs": [
+    {
+      "image_id": 0,
+      "object": "yellow forklift",
+      "task_instruction": "I need to transport a heavy pallet of boxes across the workshop. Which vehicle near the shelves is designed for this task?"
+    },
+    {
+      "image_id": 1,
+      "object": "red funnel",
+      "task_instruction": "I need to pour oil into the engine without spilling. What red conical object is sitting on the black cabinet?"
+    },
+    {
+      "image_id": 2,
+      "object": "orange-handled screwdriver",
+      "task_instruction": "I need to tighten a screw on the lift mechanism. Which tool with an orange and black handle is lying on the notched metal bar?"
+    },
+    {
+      "image_id": 5,
+      "object": "cotter pin",
+      "task_instruction": "I need to secure a clevis pin to prevent it from sliding out. What small, bent metal wire is lying on the red beam near the hand?"
+    },
+    {
+      "image_id": 8,
+      "object": "yellow pressure washer",
+      "task_instruction": "The mower deck is covered in grass clippings. Which yellow machine with a hose in the background is used for cleaning?"
+    },
+    {
+      "image_id": 10,
+      "object": "red pliers",
+      "task_instruction": "I need to grip a stubborn nut. What tool with red handles is resting on the black footrest of the lawnmower?"
+    },
+    {
+      "image_id": 12,
+      "object": "smartphone",
+      "task_instruction": "I need to check the time or read a message. What device with a green case is being held up in front of the camera?"
+    }
+  ],
+  "raw_response": "{\"image_id\": 0, \"object\": \"yellow forklift\", \"task_instruction\": \"I need to transport a heavy pallet of boxes across the workshop. Which vehicle near the shelves is designed for this task?\"}\n{\"image_id\": 1, \"object\": \"red funnel\", \"task_instruction\": \"I need to pour oil into the engine without spilling. What red conical object is sitting on the black cabinet?\"}\n{\"image_id\": 2, \"object\": \"orange-handled screwdriver\", \"task_instruction\": \"I need to tighten a screw on the lift mechanism. Which tool with an orange and black handle is lying on the notched metal bar?\"}\n{\"image_id\": 5, \"object\": \"cotter pin\", \"task_instruction\": \"I need to secure a clevis pin to prevent it from sliding out. What small, bent metal wire is lying on the red beam near the hand?\"}\n{\"image_id\": 8, \"object\": \"yellow pressure washer\", \"task_instruction\": \"The mower deck is covered in grass clippings. Which yellow machine with a hose in the background is used for cleaning?\"}\n{\"image_id\": 10, \"object\": \"red pliers\", \"task_instruction\": \"I need to grip a stubborn nut. What tool with red handles is resting on the black footrest of the lawnmower?\"}\n{\"image_id\": 12, \"object\": \"smartphone\", \"task_instruction\": \"I need to check the time or read a message. What device with a green case is being held up in front of the camera?\"}"
+}

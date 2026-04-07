@@ -1,0 +1,236 @@
+{
+  "episode_name": "024713b7-b198-4502-a114-02ca0485353b",
+  "episode_dir": "/Users/bianyaoliang/Desktop/KRA_src/data/keyframes/ego4d_batch/024713b7-b198-4502-a114-02ca0485353b",
+  "num_images": 30,
+  "num_qa_pairs": 9,
+  "images": [
+    {
+      "image_id": 0,
+      "filename": "frame_00000000.jpg",
+      "frame_idx": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "image_id": 1,
+      "filename": "frame_00000638.jpg",
+      "frame_idx": 638,
+      "timestamp_sec": 21.267
+    },
+    {
+      "image_id": 2,
+      "filename": "frame_00001914.jpg",
+      "frame_idx": 1914,
+      "timestamp_sec": 63.8
+    },
+    {
+      "image_id": 3,
+      "filename": "frame_00003190.jpg",
+      "frame_idx": 3190,
+      "timestamp_sec": 106.333
+    },
+    {
+      "image_id": 4,
+      "filename": "frame_00003828.jpg",
+      "frame_idx": 3828,
+      "timestamp_sec": 127.6
+    },
+    {
+      "image_id": 5,
+      "filename": "frame_00005104.jpg",
+      "frame_idx": 5104,
+      "timestamp_sec": 170.133
+    },
+    {
+      "image_id": 6,
+      "filename": "frame_00006380.jpg",
+      "frame_idx": 6380,
+      "timestamp_sec": 212.667
+    },
+    {
+      "image_id": 7,
+      "filename": "frame_00007018.jpg",
+      "frame_idx": 7018,
+      "timestamp_sec": 233.933
+    },
+    {
+      "image_id": 8,
+      "filename": "frame_00008294.jpg",
+      "frame_idx": 8294,
+      "timestamp_sec": 276.467
+    },
+    {
+      "image_id": 9,
+      "filename": "frame_00009570.jpg",
+      "frame_idx": 9570,
+      "timestamp_sec": 319.0
+    },
+    {
+      "image_id": 10,
+      "filename": "frame_00010208.jpg",
+      "frame_idx": 10208,
+      "timestamp_sec": 340.267
+    },
+    {
+      "image_id": 11,
+      "filename": "frame_00011484.jpg",
+      "frame_idx": 11484,
+      "timestamp_sec": 382.8
+    },
+    {
+      "image_id": 12,
+      "filename": "frame_00012760.jpg",
+      "frame_idx": 12760,
+      "timestamp_sec": 425.333
+    },
+    {
+      "image_id": 13,
+      "filename": "frame_00013398.jpg",
+      "frame_idx": 13398,
+      "timestamp_sec": 446.6
+    },
+    {
+      "image_id": 14,
+      "filename": "frame_00014674.jpg",
+      "frame_idx": 14674,
+      "timestamp_sec": 489.133
+    },
+    {
+      "image_id": 15,
+      "filename": "frame_00015950.jpg",
+      "frame_idx": 15950,
+      "timestamp_sec": 531.667
+    },
+    {
+      "image_id": 16,
+      "filename": "frame_00016588.jpg",
+      "frame_idx": 16588,
+      "timestamp_sec": 552.933
+    },
+    {
+      "image_id": 17,
+      "filename": "frame_00017864.jpg",
+      "frame_idx": 17864,
+      "timestamp_sec": 595.467
+    },
+    {
+      "image_id": 18,
+      "filename": "frame_00019140.jpg",
+      "frame_idx": 19140,
+      "timestamp_sec": 638.0
+    },
+    {
+      "image_id": 19,
+      "filename": "frame_00019778.jpg",
+      "frame_idx": 19778,
+      "timestamp_sec": 659.267
+    },
+    {
+      "image_id": 20,
+      "filename": "frame_00021054.jpg",
+      "frame_idx": 21054,
+      "timestamp_sec": 701.8
+    },
+    {
+      "image_id": 21,
+      "filename": "frame_00022330.jpg",
+      "frame_idx": 22330,
+      "timestamp_sec": 744.333
+    },
+    {
+      "image_id": 22,
+      "filename": "frame_00022968.jpg",
+      "frame_idx": 22968,
+      "timestamp_sec": 765.6
+    },
+    {
+      "image_id": 23,
+      "filename": "frame_00024244.jpg",
+      "frame_idx": 24244,
+      "timestamp_sec": 808.133
+    },
+    {
+      "image_id": 24,
+      "filename": "frame_00025520.jpg",
+      "frame_idx": 25520,
+      "timestamp_sec": 850.667
+    },
+    {
+      "image_id": 25,
+      "filename": "frame_00026158.jpg",
+      "frame_idx": 26158,
+      "timestamp_sec": 871.933
+    },
+    {
+      "image_id": 26,
+      "filename": "frame_00027434.jpg",
+      "frame_idx": 27434,
+      "timestamp_sec": 914.467
+    },
+    {
+      "image_id": 27,
+      "filename": "frame_00028710.jpg",
+      "frame_idx": 28710,
+      "timestamp_sec": 957.0
+    },
+    {
+      "image_id": 28,
+      "filename": "frame_00029348.jpg",
+      "frame_idx": 29348,
+      "timestamp_sec": 978.267
+    },
+    {
+      "image_id": 29,
+      "filename": "frame_00030624.jpg",
+      "frame_idx": 30624,
+      "timestamp_sec": 1020.8
+    }
+  ],
+  "qa_pairs": [
+    {
+      "image_id": 0,
+      "object": "knife with black handle",
+      "task_instruction": "I need to slice this whole onion. What sharp tool is resting on the cutting board next to it?"
+    },
+    {
+      "image_id": 5,
+      "object": "frying pan",
+      "task_instruction": "I am ready to start cooking. Which pan on the stove is currently having oil poured into it?"
+    },
+    {
+      "image_id": 6,
+      "object": "wooden spoon",
+      "task_instruction": "I need to transfer the sliced onions from the board into the hot pan. What utensil is being used to push them?"
+    },
+    {
+      "image_id": 11,
+      "object": "garlic cloves",
+      "task_instruction": "I need to add a pungent aromatic flavor to the sauce. What small white ingredients are waiting on the cutting board?"
+    },
+    {
+      "image_id": 20,
+      "object": "red wine bottle",
+      "task_instruction": "The onions are caramelized and I need to deglaze the pan with liquid. What bottle is being poured?"
+    },
+    {
+      "image_id": 17,
+      "object": "orange washing up bowl",
+      "task_instruction": "I need to wash my hands after handling food. What orange container is sitting under the tap in the sink?"
+    },
+    {
+      "image_id": 25,
+      "object": "blue water filter pitcher",
+      "task_instruction": "I need to boil some filtered water. What blue jug is being poured into the kettle?"
+    },
+    {
+      "image_id": 26,
+      "object": "yellow sponge",
+      "task_instruction": "The pan has stuck-on food residue. What cleaning tool is being used to scrub the inside?"
+    },
+    {
+      "image_id": 29,
+      "object": "black baking tray",
+      "task_instruction": "I have roasted vegetables that need to be added to the sauce. What black tray is being tipped over the pan?"
+    }
+  ],
+  "raw_response": "{\"image_id\": 0, \"object\": \"knife with black handle\", \"task_instruction\": \"I need to slice this whole onion. What sharp tool is resting on the cutting board next to it?\"}\n{\"image_id\": 5, \"object\": \"frying pan\", \"task_instruction\": \"I am ready to start cooking. Which pan on the stove is currently having oil poured into it?\"}\n{\"image_id\": 6, \"object\": \"wooden spoon\", \"task_instruction\": \"I need to transfer the sliced onions from the board into the hot pan. What utensil is being used to push them?\"}\n{\"image_id\": 11, \"object\": \"garlic cloves\", \"task_instruction\": \"I need to add a pungent aromatic flavor to the sauce. What small white ingredients are waiting on the cutting board?\"}\n{\"image_id\": 20, \"object\": \"red wine bottle\", \"task_instruction\": \"The onions are caramelized and I need to deglaze the pan with liquid. What bottle is being poured?\"}\n{\"image_id\": 17, \"object\": \"orange washing up bowl\", \"task_instruction\": \"I need to wash my hands after handling food. What orange container is sitting under the tap in the sink?\"}\n{\"image_id\": 25, \"object\": \"blue water filter pitcher\", \"task_instruction\": \"I need to boil some filtered water. What blue jug is being poured into the kettle?\"}\n{\"image_id\": 26, \"object\": \"yellow sponge\", \"task_instruction\": \"The pan has stuck-on food residue. What cleaning tool is being used to scrub the inside?\"}\n{\"image_id\": 29, \"object\": \"black baking tray\", \"task_instruction\": \"I have roasted vegetables that need to be added to the sauce. What black tray is being tipped over the pan?\"}"
+}

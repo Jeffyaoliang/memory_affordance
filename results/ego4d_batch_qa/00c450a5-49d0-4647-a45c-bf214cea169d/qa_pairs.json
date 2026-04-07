@@ -1,0 +1,226 @@
+{
+  "episode_name": "00c450a5-49d0-4647-a45c-bf214cea169d",
+  "episode_dir": "/Users/bianyaoliang/Desktop/KRA_src/data/keyframes/ego4d_batch/00c450a5-49d0-4647-a45c-bf214cea169d",
+  "num_images": 30,
+  "num_qa_pairs": 7,
+  "images": [
+    {
+      "image_id": 0,
+      "filename": "frame_00000000.jpg",
+      "frame_idx": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "image_id": 1,
+      "filename": "frame_00001080.jpg",
+      "frame_idx": 1080,
+      "timestamp_sec": 36.0
+    },
+    {
+      "image_id": 2,
+      "filename": "frame_00003240.jpg",
+      "frame_idx": 3240,
+      "timestamp_sec": 108.0
+    },
+    {
+      "image_id": 3,
+      "filename": "frame_00005400.jpg",
+      "frame_idx": 5400,
+      "timestamp_sec": 180.0
+    },
+    {
+      "image_id": 4,
+      "filename": "frame_00006480.jpg",
+      "frame_idx": 6480,
+      "timestamp_sec": 216.0
+    },
+    {
+      "image_id": 5,
+      "filename": "frame_00008640.jpg",
+      "frame_idx": 8640,
+      "timestamp_sec": 288.0
+    },
+    {
+      "image_id": 6,
+      "filename": "frame_00010800.jpg",
+      "frame_idx": 10800,
+      "timestamp_sec": 360.0
+    },
+    {
+      "image_id": 7,
+      "filename": "frame_00011880.jpg",
+      "frame_idx": 11880,
+      "timestamp_sec": 396.0
+    },
+    {
+      "image_id": 8,
+      "filename": "frame_00014040.jpg",
+      "frame_idx": 14040,
+      "timestamp_sec": 468.0
+    },
+    {
+      "image_id": 9,
+      "filename": "frame_00016200.jpg",
+      "frame_idx": 16200,
+      "timestamp_sec": 540.0
+    },
+    {
+      "image_id": 10,
+      "filename": "frame_00017280.jpg",
+      "frame_idx": 17280,
+      "timestamp_sec": 576.0
+    },
+    {
+      "image_id": 11,
+      "filename": "frame_00019440.jpg",
+      "frame_idx": 19440,
+      "timestamp_sec": 648.0
+    },
+    {
+      "image_id": 12,
+      "filename": "frame_00021600.jpg",
+      "frame_idx": 21600,
+      "timestamp_sec": 720.0
+    },
+    {
+      "image_id": 13,
+      "filename": "frame_00022680.jpg",
+      "frame_idx": 22680,
+      "timestamp_sec": 756.0
+    },
+    {
+      "image_id": 14,
+      "filename": "frame_00024840.jpg",
+      "frame_idx": 24840,
+      "timestamp_sec": 828.0
+    },
+    {
+      "image_id": 15,
+      "filename": "frame_00027000.jpg",
+      "frame_idx": 27000,
+      "timestamp_sec": 900.0
+    },
+    {
+      "image_id": 16,
+      "filename": "frame_00028080.jpg",
+      "frame_idx": 28080,
+      "timestamp_sec": 936.0
+    },
+    {
+      "image_id": 17,
+      "filename": "frame_00030240.jpg",
+      "frame_idx": 30240,
+      "timestamp_sec": 1008.0
+    },
+    {
+      "image_id": 18,
+      "filename": "frame_00032400.jpg",
+      "frame_idx": 32400,
+      "timestamp_sec": 1080.0
+    },
+    {
+      "image_id": 19,
+      "filename": "frame_00033480.jpg",
+      "frame_idx": 33480,
+      "timestamp_sec": 1116.0
+    },
+    {
+      "image_id": 20,
+      "filename": "frame_00035640.jpg",
+      "frame_idx": 35640,
+      "timestamp_sec": 1188.0
+    },
+    {
+      "image_id": 21,
+      "filename": "frame_00037800.jpg",
+      "frame_idx": 37800,
+      "timestamp_sec": 1260.0
+    },
+    {
+      "image_id": 22,
+      "filename": "frame_00038880.jpg",
+      "frame_idx": 38880,
+      "timestamp_sec": 1296.0
+    },
+    {
+      "image_id": 23,
+      "filename": "frame_00041040.jpg",
+      "frame_idx": 41040,
+      "timestamp_sec": 1368.0
+    },
+    {
+      "image_id": 24,
+      "filename": "frame_00043200.jpg",
+      "frame_idx": 43200,
+      "timestamp_sec": 1440.0
+    },
+    {
+      "image_id": 25,
+      "filename": "frame_00044280.jpg",
+      "frame_idx": 44280,
+      "timestamp_sec": 1476.0
+    },
+    {
+      "image_id": 26,
+      "filename": "frame_00046440.jpg",
+      "frame_idx": 46440,
+      "timestamp_sec": 1548.0
+    },
+    {
+      "image_id": 27,
+      "filename": "frame_00048600.jpg",
+      "frame_idx": 48600,
+      "timestamp_sec": 1620.0
+    },
+    {
+      "image_id": 28,
+      "filename": "frame_00049680.jpg",
+      "frame_idx": 49680,
+      "timestamp_sec": 1656.0
+    },
+    {
+      "image_id": 29,
+      "filename": "frame_00051840.jpg",
+      "frame_idx": 51840,
+      "timestamp_sec": 1728.0
+    }
+  ],
+  "qa_pairs": [
+    {
+      "image_id": 0,
+      "object": "small plastic container of nuts",
+      "task_instruction": "I need to add some crunchy nuts to the dish. What small container is being held above the bowl?"
+    },
+    {
+      "image_id": 7,
+      "object": "baking sheet with stuffed mushrooms",
+      "task_instruction": "The appetizers are ready to be cooked. What am I placing into the oven?"
+    },
+    {
+      "image_id": 13,
+      "object": "carton of eggs in the refrigerator",
+      "task_instruction": "I need to retrieve some eggs for the recipe. Where should I reach?"
+    },
+    {
+      "image_id": 16,
+      "object": "package of ground meat",
+      "task_instruction": "I am about to add the protein to the mixture. What package am I holding?"
+    },
+    {
+      "image_id": 18,
+      "object": "cutting board with minced garlic",
+      "task_instruction": "I have finished chopping the garlic and need to transfer it. What am I holding?"
+    },
+    {
+      "image_id": 25,
+      "object": "container of grated cheese",
+      "task_instruction": "I need to sprinkle some cheese into the bowl. What container am I pouring from?"
+    },
+    {
+      "image_id": 28,
+      "object": "blue whisk",
+      "task_instruction": "I need to beat the eggs in the small cup. Which utensil am I holding?"
+    }
+  ],
+  "raw_response": "{\"image_id\": 0, \"object\": \"small plastic container of nuts\", \"task_instruction\": \"I need to add some crunchy nuts to the dish. What small container is being held above the bowl?\"}\n{\"image_id\": 7, \"object\": \"baking sheet with stuffed mushrooms\", \"task_instruction\": \"The appetizers are ready to be cooked. What am I placing into the oven?\"}\n{\"image_id\": 13, \"object\": \"carton of eggs in the refrigerator\", \"task_instruction\": \"I need to retrieve some eggs for the recipe. Where should I reach?\"}\n{\"image_id\": 16, \"object\": \"package of ground meat\", \"task_instruction\": \"I am about to add the protein to the mixture. What package am I holding?\"}\n{\"image_id\": 18, \"object\": \"cutting board with minced garlic\", \"task_instruction\": \"I have finished chopping the garlic and need to transfer it. What am I holding?\"}\n{\"image_id\": 25, \"object\": \"container of grated cheese\", \"task_instruction\": \"I need to sprinkle some cheese into the bowl. What container am I pouring from?\"}\n{\"image_id\": 28, \"object\": \"blue whisk\", \"task_instruction\": \"I need to beat the eggs in the small cup. Which utensil am I holding?\"}"
+}

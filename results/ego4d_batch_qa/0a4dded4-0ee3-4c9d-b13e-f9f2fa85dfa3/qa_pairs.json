@@ -1,0 +1,231 @@
+{
+  "episode_name": "0a4dded4-0ee3-4c9d-b13e-f9f2fa85dfa3",
+  "episode_dir": "/Users/bianyaoliang/Desktop/KRA_src/data/keyframes/ego4d_batch/0a4dded4-0ee3-4c9d-b13e-f9f2fa85dfa3",
+  "num_images": 30,
+  "num_qa_pairs": 8,
+  "images": [
+    {
+      "image_id": 0,
+      "filename": "frame_00000000.jpg",
+      "frame_idx": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "image_id": 1,
+      "filename": "frame_00000385.jpg",
+      "frame_idx": 385,
+      "timestamp_sec": 12.833
+    },
+    {
+      "image_id": 2,
+      "filename": "frame_00001155.jpg",
+      "frame_idx": 1155,
+      "timestamp_sec": 38.5
+    },
+    {
+      "image_id": 3,
+      "filename": "frame_00001925.jpg",
+      "frame_idx": 1925,
+      "timestamp_sec": 64.167
+    },
+    {
+      "image_id": 4,
+      "filename": "frame_00002310.jpg",
+      "frame_idx": 2310,
+      "timestamp_sec": 77.0
+    },
+    {
+      "image_id": 5,
+      "filename": "frame_00003080.jpg",
+      "frame_idx": 3080,
+      "timestamp_sec": 102.667
+    },
+    {
+      "image_id": 6,
+      "filename": "frame_00003850.jpg",
+      "frame_idx": 3850,
+      "timestamp_sec": 128.333
+    },
+    {
+      "image_id": 7,
+      "filename": "frame_00004235.jpg",
+      "frame_idx": 4235,
+      "timestamp_sec": 141.167
+    },
+    {
+      "image_id": 8,
+      "filename": "frame_00005005.jpg",
+      "frame_idx": 5005,
+      "timestamp_sec": 166.833
+    },
+    {
+      "image_id": 9,
+      "filename": "frame_00005775.jpg",
+      "frame_idx": 5775,
+      "timestamp_sec": 192.5
+    },
+    {
+      "image_id": 10,
+      "filename": "frame_00006160.jpg",
+      "frame_idx": 6160,
+      "timestamp_sec": 205.333
+    },
+    {
+      "image_id": 11,
+      "filename": "frame_00006930.jpg",
+      "frame_idx": 6930,
+      "timestamp_sec": 231.0
+    },
+    {
+      "image_id": 12,
+      "filename": "frame_00007700.jpg",
+      "frame_idx": 7700,
+      "timestamp_sec": 256.667
+    },
+    {
+      "image_id": 13,
+      "filename": "frame_00008085.jpg",
+      "frame_idx": 8085,
+      "timestamp_sec": 269.5
+    },
+    {
+      "image_id": 14,
+      "filename": "frame_00008855.jpg",
+      "frame_idx": 8855,
+      "timestamp_sec": 295.167
+    },
+    {
+      "image_id": 15,
+      "filename": "frame_00009625.jpg",
+      "frame_idx": 9625,
+      "timestamp_sec": 320.833
+    },
+    {
+      "image_id": 16,
+      "filename": "frame_00010010.jpg",
+      "frame_idx": 10010,
+      "timestamp_sec": 333.667
+    },
+    {
+      "image_id": 17,
+      "filename": "frame_00010780.jpg",
+      "frame_idx": 10780,
+      "timestamp_sec": 359.333
+    },
+    {
+      "image_id": 18,
+      "filename": "frame_00011550.jpg",
+      "frame_idx": 11550,
+      "timestamp_sec": 385.0
+    },
+    {
+      "image_id": 19,
+      "filename": "frame_00011935.jpg",
+      "frame_idx": 11935,
+      "timestamp_sec": 397.833
+    },
+    {
+      "image_id": 20,
+      "filename": "frame_00012705.jpg",
+      "frame_idx": 12705,
+      "timestamp_sec": 423.5
+    },
+    {
+      "image_id": 21,
+      "filename": "frame_00013475.jpg",
+      "frame_idx": 13475,
+      "timestamp_sec": 449.167
+    },
+    {
+      "image_id": 22,
+      "filename": "frame_00013860.jpg",
+      "frame_idx": 13860,
+      "timestamp_sec": 462.0
+    },
+    {
+      "image_id": 23,
+      "filename": "frame_00014630.jpg",
+      "frame_idx": 14630,
+      "timestamp_sec": 487.667
+    },
+    {
+      "image_id": 24,
+      "filename": "frame_00015400.jpg",
+      "frame_idx": 15400,
+      "timestamp_sec": 513.333
+    },
+    {
+      "image_id": 25,
+      "filename": "frame_00015785.jpg",
+      "frame_idx": 15785,
+      "timestamp_sec": 526.167
+    },
+    {
+      "image_id": 26,
+      "filename": "frame_00016555.jpg",
+      "frame_idx": 16555,
+      "timestamp_sec": 551.833
+    },
+    {
+      "image_id": 27,
+      "filename": "frame_00017325.jpg",
+      "frame_idx": 17325,
+      "timestamp_sec": 577.5
+    },
+    {
+      "image_id": 28,
+      "filename": "frame_00017710.jpg",
+      "frame_idx": 17710,
+      "timestamp_sec": 590.333
+    },
+    {
+      "image_id": 29,
+      "filename": "frame_00018480.jpg",
+      "frame_idx": 18480,
+      "timestamp_sec": 616.0
+    }
+  ],
+  "qa_pairs": [
+    {
+      "image_id": 0,
+      "object": "red tool chest",
+      "task_instruction": "I need to store my tools securely. What large red cabinet with 'Chevrolet' and 'NHRA' stickers is visible at the start?"
+    },
+    {
+      "image_id": 2,
+      "object": "impact wrench",
+      "task_instruction": "I need to remove the lug nuts from the wheel efficiently. What power tool is being applied to the tire?"
+    },
+    {
+      "image_id": 11,
+      "object": "drawer with screwdrivers",
+      "task_instruction": "I need a tool for driving screws. Where can I find a collection of screwdrivers with yellow and black handles?"
+    },
+    {
+      "image_id": 14,
+      "object": "plastic soda bottle",
+      "task_instruction": "I need a quick drink while working. What plastic bottle is being opened?"
+    },
+    {
+      "image_id": 18,
+      "object": "red oil drain pan",
+      "task_instruction": "I need to catch the waste oil draining from the vehicle. What red equipment with a large funnel top should I move into place?"
+    },
+    {
+      "image_id": 20,
+      "object": "ratchet",
+      "task_instruction": "I need to tighten a fastener manually near the oil drain pan. What hand tool is held in the right hand?"
+    },
+    {
+      "image_id": 26,
+      "object": "brake fluid tester",
+      "task_instruction": "I need to check the quality of the brake fluid. What device with a digital display and probe is being inserted into the engine bay?"
+    },
+    {
+      "image_id": 27,
+      "object": "inspection light",
+      "task_instruction": "The engine compartment is dark and I need to see deep inside. What handheld light source is being used to illuminate the components?"
+    }
+  ],
+  "raw_response": "{\"image_id\": 0, \"object\": \"red tool chest\", \"task_instruction\": \"I need to store my tools securely. What large red cabinet with 'Chevrolet' and 'NHRA' stickers is visible at the start?\"}\n{\"image_id\": 2, \"object\": \"impact wrench\", \"task_instruction\": \"I need to remove the lug nuts from the wheel efficiently. What power tool is being applied to the tire?\"}\n{\"image_id\": 11, \"object\": \"drawer with screwdrivers\", \"task_instruction\": \"I need a tool for driving screws. Where can I find a collection of screwdrivers with yellow and black handles?\"}\n{\"image_id\": 14, \"object\": \"plastic soda bottle\", \"task_instruction\": \"I need a quick drink while working. What plastic bottle is being opened?\"}\n{\"image_id\": 18, \"object\": \"red oil drain pan\", \"task_instruction\": \"I need to catch the waste oil draining from the vehicle. What red equipment with a large funnel top should I move into place?\"}\n{\"image_id\": 20, \"object\": \"ratchet\", \"task_instruction\": \"I need to tighten a fastener manually near the oil drain pan. What hand tool is held in the right hand?\"}\n{\"image_id\": 26, \"object\": \"brake fluid tester\", \"task_instruction\": \"I need to check the quality of the brake fluid. What device with a digital display and probe is being inserted into the engine bay?\"}\n{\"image_id\": 27, \"object\": \"inspection light\", \"task_instruction\": \"The engine compartment is dark and I need to see deep inside. What handheld light source is being used to illuminate the components?\"}"
+}

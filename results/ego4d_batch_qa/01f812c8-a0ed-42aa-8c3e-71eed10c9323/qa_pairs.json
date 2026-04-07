@@ -1,0 +1,172 @@
+{
+  "episode_name": "01f812c8-a0ed-42aa-8c3e-71eed10c9323",
+  "episode_dir": "/Users/bianyaoliang/Desktop/KRA_src/data/keyframes/ego4d_batch/01f812c8-a0ed-42aa-8c3e-71eed10c9323",
+  "num_images": 21,
+  "num_qa_pairs": 7,
+  "images": [
+    {
+      "image_id": 0,
+      "filename": "frame_00000000.jpg",
+      "frame_idx": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "image_id": 1,
+      "filename": "frame_00000180.jpg",
+      "frame_idx": 180,
+      "timestamp_sec": 6.0
+    },
+    {
+      "image_id": 2,
+      "filename": "frame_00000360.jpg",
+      "frame_idx": 360,
+      "timestamp_sec": 12.0
+    },
+    {
+      "image_id": 3,
+      "filename": "frame_00000540.jpg",
+      "frame_idx": 540,
+      "timestamp_sec": 18.0
+    },
+    {
+      "image_id": 4,
+      "filename": "frame_00000720.jpg",
+      "frame_idx": 720,
+      "timestamp_sec": 24.0
+    },
+    {
+      "image_id": 5,
+      "filename": "frame_00000900.jpg",
+      "frame_idx": 900,
+      "timestamp_sec": 30.0
+    },
+    {
+      "image_id": 6,
+      "filename": "frame_00001080.jpg",
+      "frame_idx": 1080,
+      "timestamp_sec": 36.0
+    },
+    {
+      "image_id": 7,
+      "filename": "frame_00001260.jpg",
+      "frame_idx": 1260,
+      "timestamp_sec": 42.0
+    },
+    {
+      "image_id": 8,
+      "filename": "frame_00001440.jpg",
+      "frame_idx": 1440,
+      "timestamp_sec": 48.0
+    },
+    {
+      "image_id": 9,
+      "filename": "frame_00001620.jpg",
+      "frame_idx": 1620,
+      "timestamp_sec": 54.0
+    },
+    {
+      "image_id": 10,
+      "filename": "frame_00001800.jpg",
+      "frame_idx": 1800,
+      "timestamp_sec": 60.0
+    },
+    {
+      "image_id": 11,
+      "filename": "frame_00001980.jpg",
+      "frame_idx": 1980,
+      "timestamp_sec": 66.0
+    },
+    {
+      "image_id": 12,
+      "filename": "frame_00002160.jpg",
+      "frame_idx": 2160,
+      "timestamp_sec": 72.0
+    },
+    {
+      "image_id": 13,
+      "filename": "frame_00002340.jpg",
+      "frame_idx": 2340,
+      "timestamp_sec": 78.0
+    },
+    {
+      "image_id": 14,
+      "filename": "frame_00002520.jpg",
+      "frame_idx": 2520,
+      "timestamp_sec": 84.0
+    },
+    {
+      "image_id": 15,
+      "filename": "frame_00002700.jpg",
+      "frame_idx": 2700,
+      "timestamp_sec": 90.0
+    },
+    {
+      "image_id": 16,
+      "filename": "frame_00002880.jpg",
+      "frame_idx": 2880,
+      "timestamp_sec": 96.0
+    },
+    {
+      "image_id": 17,
+      "filename": "frame_00003060.jpg",
+      "frame_idx": 3060,
+      "timestamp_sec": 102.0
+    },
+    {
+      "image_id": 18,
+      "filename": "frame_00003240.jpg",
+      "frame_idx": 3240,
+      "timestamp_sec": 108.0
+    },
+    {
+      "image_id": 19,
+      "filename": "frame_00003420.jpg",
+      "frame_idx": 3420,
+      "timestamp_sec": 114.0
+    },
+    {
+      "image_id": 20,
+      "filename": "frame_00003600.jpg",
+      "frame_idx": 3600,
+      "timestamp_sec": 120.0
+    }
+  ],
+  "qa_pairs": [
+    {
+      "image_id": 3,
+      "object": "white vent cover",
+      "task_instruction": "I removed a vent to paint behind it. Which image shows me holding the white rectangular cover?"
+    },
+    {
+      "image_id": 5,
+      "object": "roller cover in bucket",
+      "task_instruction": "I need to clean the paint off my roller. Which image shows the roller being rinsed in a bucket of water?"
+    },
+    {
+      "image_id": 12,
+      "object": "black water bottle",
+      "task_instruction": "I'm taking a break to drink water. Where is the black bottle with the red clip being held near the window?"
+    },
+    {
+      "image_id": 17,
+      "object": "red work light",
+      "task_instruction": "It's getting dark. Which image shows the red work light turned on and sitting on the floor?"
+    },
+    {
+      "image_id": 19,
+      "object": "silver platform ladder",
+      "task_instruction": "I need to reach high places. Which image shows a top-down view of me holding the silver platform ladder?"
+    },
+    {
+      "image_id": 0,
+      "object": "paint sprayer",
+      "task_instruction": "I want to use the airless sprayer. Where is it sitting on the drop cloth near the wall with blue tape?"
+    },
+    {
+      "image_id": 1,
+      "object": "roller frame and handle",
+      "task_instruction": "I am assembling my painting tool. Which image shows me holding the handle and metal cage separately?"
+    }
+  ],
+  "raw_response": "{\"image_id\": 3, \"object\": \"white vent cover\", \"task_instruction\": \"I removed a vent to paint behind it. Which image shows me holding the white rectangular cover?\"}\n{\"image_id\": 5, \"object\": \"roller cover in bucket\", \"task_instruction\": \"I need to clean the paint off my roller. Which image shows the roller being rinsed in a bucket of water?\"}\n{\"image_id\": 12, \"object\": \"black water bottle\", \"task_instruction\": \"I'm taking a break to drink water. Where is the black bottle with the red clip being held near the window?\"}\n{\"image_id\": 17, \"object\": \"red work light\", \"task_instruction\": \"It's getting dark. Which image shows the red work light turned on and sitting on the floor?\"}\n{\"image_id\": 19, \"object\": \"silver platform ladder\", \"task_instruction\": \"I need to reach high places. Which image shows a top-down view of me holding the silver platform ladder?\"}\n{\"image_id\": 0, \"object\": \"paint sprayer\", \"task_instruction\": \"I want to use the airless sprayer. Where is it sitting on the drop cloth near the wall with blue tape?\"}\n{\"image_id\": 1, \"object\": \"roller frame and handle\", \"task_instruction\": \"I am assembling my painting tool. Which image shows me holding the handle and metal cage separately?\"}"
+}
