@@ -239,26 +239,47 @@ def process_episode(check_result: dict, keyframes_root: str, output_dir: str,
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate masks for valid QA pairs")
-    parser.add_argument("--qa_check_dir", type=str, required=True,
-                        help="Directory with qa_check_results.json per episode")
+    parser = argparse.ArgumentParser(description="Generate masks for QA pairs")
+    parser.add_argument("--qa_dir", type=str, required=True,
+                        help="Directory with per-episode subdirs containing qa_pairs.json "
+                             "and/or qa_check_results.json")
     parser.add_argument("--keyframes_root", type=str, required=True)
     parser.add_argument("--output_dir", type=str, default="results/episode_masks")
     parser.add_argument("--device", type=str, default="cuda")
+    parser.add_argument("--use_check", action="store_true",
+                        help="Use only QAs that passed uniqueness check "
+                             "(requires qa_check_results.json). Default: use all qa_pairs.json")
     args = parser.parse_args()
 
     rex, sam2 = load_models(args.device)
 
     # Iterate over episodes
     summaries = []
-    for ep_name in sorted(os.listdir(args.qa_check_dir)):
-        ep_dir = os.path.join(args.qa_check_dir, ep_name)
-        check_path = os.path.join(ep_dir, "qa_check_results.json")
-        if not os.path.exists(check_path):
+    for ep_name in sorted(os.listdir(args.qa_dir)):
+        ep_dir = os.path.join(args.qa_dir, ep_name)
+        if not os.path.isdir(ep_dir):
             continue
-        with open(check_path) as f:
-            check = json.load(f)
-        check["__source_dir__"] = ep_dir
+
+        check_path = os.path.join(ep_dir, "qa_check_results.json")
+        qa_path = os.path.join(ep_dir, "qa_pairs.json")
+
+        if args.use_check and os.path.exists(check_path):
+            with open(check_path) as f:
+                check = json.load(f)
+            check["__source_dir__"] = ep_dir
+        elif os.path.exists(qa_path):
+            # Fallback: use raw qa_pairs.json (no uniqueness filtering)
+            with open(qa_path) as f:
+                qa_full = json.load(f)
+            check = {
+                "episode_name": qa_full["episode_name"],
+                "valid_qa_pairs": qa_full["qa_pairs"],
+                "__source_dir__": ep_dir,
+            }
+        else:
+            print(f"  [{ep_name}] no qa_pairs.json or qa_check_results.json, skipping")
+            continue
+
         summary = process_episode(check, args.keyframes_root, args.output_dir, rex, sam2)
         summaries.append(summary)
 
