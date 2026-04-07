@@ -100,7 +100,7 @@ def segment_with_sam2(sam2_model, image: Image.Image, bboxes: list,
     """Run SAM2 with detected bboxes and points to produce a mask.
 
     Returns:
-        Binary mask as np.ndarray (H, W), or None on failure.
+        Boolean mask as np.ndarray (H, W), or None on failure.
     """
     import numpy as np
 
@@ -120,7 +120,9 @@ def segment_with_sam2(sam2_model, image: Image.Image, bboxes: list,
                 kwargs["point_labels"] = [1]
             masks, scores, _ = sam2_model.predict(**kwargs)
             best = masks[int(scores.argmax())]
-            merged_mask = best if merged_mask is None else (merged_mask | best)
+            # SAM2 may return float masks (logits/probabilities); coerce to bool
+            best_bool = best > 0 if best.dtype != bool else best
+            merged_mask = best_bool if merged_mask is None else np.logical_or(merged_mask, best_bool)
         except Exception as e:
             print(f"  SAM2 error on bbox {i}: {e}")
             continue
