@@ -1,0 +1,59 @@
+# Data — must NOT be committed (multi-GB)
+data/
+!data/.gitkeep
+
+# Results — too large, regenerable
+results/
+!results/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+.python-version
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+*.log.*
+
+# Credentials — safety net
+.env
+.envrc
+*.key
+*.pem
+secrets.json
+
+# Models & weights
+*.pth
+*.safetensors
+*.bin
+*.ckpt
+checkpoints/
+
+# Affordance_Annotator submodule (clone separately)
+Affordance_Annotator/
+
+# EPIC-KITCHENS download scripts (clone separately)
+epic-kitchens-download-scripts/
+
+# Tar/zip archives
+*.tar
+*.tar.gz
+*.tgz
+*.zip
